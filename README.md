@@ -24,7 +24,7 @@ You would receive a file Bank.xls which contains data of 5000 customers. It incl
 • Among the 5000 customers, only 480 (9.6%) customers have accepted the personal 
 loan in the last year campaign.
 Following is the description of the columns in excel file. 
-----------------------------------------------------------------------
+
 ID -Customer ID
 Age - Customer's age in years
 Experience - Years of professional experience
@@ -43,7 +43,7 @@ and Recurring Deposits) account with the bank?
 Online - Does the customer use internet banking facilities?
 CreditCard - Does the customer use a credit card issued by the bank?
 Income Categorical - Column Created as an example 
-----------------------------------------------------------------------------
+
 Additionally, a column Income Categorical has already been created for your reference.
 Objective (Task):
 • As a consultant, you must perform preliminary data analysis (EDA) and visualization to 
